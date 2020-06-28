@@ -1,0 +1,7 @@
+{
+    "name": "Autocompletar endereços",
+    "description": "Autocompletar endereços sem utilizar a API do Google Maps.",
+    "author": "Luan Novais",
+    "author_uri": "https://github.com/luan11/",
+    "version": "1.0.0"
+}
