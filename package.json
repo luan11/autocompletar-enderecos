@@ -4,7 +4,7 @@
   "description": "Boilerplate of projects luandev",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "g": "^2.0.1"
   },
   "devDependencies": {
